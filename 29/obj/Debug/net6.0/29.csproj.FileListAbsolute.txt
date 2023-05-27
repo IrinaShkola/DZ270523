@@ -1,0 +1,15 @@
+C:\Users\User\Documents\DZ20.05\29\bin\Debug\net6.0\29.exe
+C:\Users\User\Documents\DZ20.05\29\bin\Debug\net6.0\29.deps.json
+C:\Users\User\Documents\DZ20.05\29\bin\Debug\net6.0\29.runtimeconfig.json
+C:\Users\User\Documents\DZ20.05\29\bin\Debug\net6.0\29.dll
+C:\Users\User\Documents\DZ20.05\29\bin\Debug\net6.0\29.pdb
+C:\Users\User\Documents\DZ20.05\29\obj\Debug\net6.0\29.csproj.AssemblyReference.cache
+C:\Users\User\Documents\DZ20.05\29\obj\Debug\net6.0\29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DZ20.05\29\obj\Debug\net6.0\29.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DZ20.05\29\obj\Debug\net6.0\29.AssemblyInfo.cs
+C:\Users\User\Documents\DZ20.05\29\obj\Debug\net6.0\29.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DZ20.05\29\obj\Debug\net6.0\29.dll
+C:\Users\User\Documents\DZ20.05\29\obj\Debug\net6.0\refint\29.dll
+C:\Users\User\Documents\DZ20.05\29\obj\Debug\net6.0\29.pdb
+C:\Users\User\Documents\DZ20.05\29\obj\Debug\net6.0\29.genruntimeconfig.cache
+C:\Users\User\Documents\DZ20.05\29\obj\Debug\net6.0\ref\29.dll
